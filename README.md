@@ -39,4 +39,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - https://angular.io/guide/component-overview
 - https://angular.io/guide/architecture-components
 - https://www.makeuseof.com/angular-components-create-use/
-- 
