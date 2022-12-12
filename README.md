@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Resources 
+
+- https://component-party.dev/#reactivity
+- https://medium.com/@shijin_nath/angular-right-file-structure-and-best-practices-that-help-to-scale-2020-52ce8d967df5
+- https://angular.io/guide/component-overview
+- https://angular.io/guide/architecture-components
+- https://www.makeuseof.com/angular-components-create-use/
+- 
